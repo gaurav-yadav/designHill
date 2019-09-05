@@ -1,0 +1,19 @@
+.DivStyle  {
+    margin : 40;
+    padding: 5px;
+    border: 1em;
+    border-color : red;
+    background-color: #282c34;
+    max-width: 50px;
+    align-self: center
+  };
+
+
+  .active {
+    margin : 40;
+    border: 1em;
+    border-color: black;
+    background-color: #282c34;
+    max-width: 50px;
+    align-self: center
+  }
